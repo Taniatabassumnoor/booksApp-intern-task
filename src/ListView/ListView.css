@@ -1,0 +1,11 @@
+.banner{
+    background-image: url('https://i.ibb.co/m4ph4nv/modern-business-buildings-in-financial-district-in-city-of-China.jpg'),
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    min-height: 100vh;
+    width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+}
